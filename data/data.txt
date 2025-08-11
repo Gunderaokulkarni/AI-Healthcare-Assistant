@@ -1,0 +1,6 @@
+1. Diabetes- 
+Symptoms: increased thirst, frequent urination, extreme fatigue.- Causes: Insulin resistance, autoimmune destruction of insulin-producing cells.- Treatment: Lifestyle changes, insulin therapy, oral medications.
+ 2. Hypertension (High Blood Pressure)- Symptoms: Often asymptomatic, headaches, shortness of breath.- Causes: Obesity, stress, smoking, high salt intake.- Treatment: Beta-blockers, ACE inhibitors, lifestyle changes.
+ 3. Common Cold- Symptoms: Sneezing, coughing, runny nose, sore throat.- Causes: Viral infection (Rhinovirus).- Treatment: Rest, hydration, over-the-counter medicine.
+ 4. Flu (Influenza)- Symptoms: Fever, chills, muscle aches, cough.- Causes: Influenza virus.- Treatment: Antiviral drugs, rest, fluids.
+ 5. COVID-19- Symptoms: Fever, cough, loss of taste/smell, fatigue.- Causes: SARS-CoV-2 virus.- Prevention: Vaccination, mask-wearing, hand hygiene.- Treatment: Supportive care, antivirals (in severe cases).
